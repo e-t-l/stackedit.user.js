@@ -2,10 +2,12 @@
 // @name          Stackedit
 // @namespace     e-t-l
 // @homepage      https://github.com/e-t-l/stackedit.user.js
+// @downloadURL   https://raw.githubusercontent.com/e-t-l/stackedit.user.js/master/stackedit.user.js
 // @description   MD WYSIWYG
 // @match         https://*.github.com/*/*/issues/*
 // @match         https://*.github.com/*/*/discussions/*
-// @version       1.0
+// @run-at document-start
+// @version       1.0.1
 // @license       MIT
 // ==/UserScript==
 
